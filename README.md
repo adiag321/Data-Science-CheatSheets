@@ -2,7 +2,7 @@
 
 This Repository contains a list of all the Data Science Cheatsheets that you might help you with interview preparation, exams or anything else.
 
-## Table of Contents
+## TABLE OF CONTENTS
 
 1. Data Analysis
 2. Data Science
@@ -15,7 +15,7 @@ This Repository contains a list of all the Data Science Cheatsheets that you mig
 9. Structured Query Langauge (SQL)
 10. Statistics
 
-## Contact
+## CONTACT
 
 Feel free to comment, suggest any updates or potential improvements.
 
